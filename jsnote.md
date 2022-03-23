@@ -1,10 +1,3 @@
----
-title: javaScript
-p: js-note/javaScript/javaScript
-date: 2019-11-12 10:18:21  
-categories: js
-tags: [js,前端]
----
 
 [TOC]
 
@@ -2479,4 +2472,3 @@ copy() {
 }  
 ```
 
-  **[github笔记下载地址](https://github.com/codeOflI/codeOflI.github.io/blob/dev/source/_posts/js-note/javaScript/javaScript.md)**
